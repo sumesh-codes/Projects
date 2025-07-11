@@ -45,7 +45,7 @@ const CheckWin = ()=>{
 
 }
 
-// Gme logic 
+// Game logic 
 
 let boxes = document.getElementsByClassName("box")
 Array.from(boxes).forEach(element =>{
